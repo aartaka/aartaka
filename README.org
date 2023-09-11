@@ -9,14 +9,14 @@ Hey there! Name's Artyom, and I'm
   - but also Magit/PureData knowledge domain representation enjoyment.
   - Example projects:
     - [[https://github.com/atlas-engineer/nyxt][Nyxt]] as a test bed for all kinds of Design Systems, Malleable Software, and Power-User Design experiments;
+    - [[https://github.com/aartaka/graven-image][Graven Image]] as an attempt to make running Lisp image more inspectable.
     - [[https://github.com/aartaka/cl-pure-data][cl-pure-data]] as an attempt to bring/bridge the graphicality of PureData back to the textual coding.
   - Dream projects (i.e. projects I'd love to do but need more knowledge/courage/money (investments/donations welcome) to start):
-    - an AST-reliant Git alternative;
     - structural code editor for touchscreens, resembling [[https://apkpure.com/hacked/com.hackedapp][/Hacked/ (the Android game)]],
     - no-screen physical interface [[https://en.wikipedia.org/wiki/Fidget_Cube][Fidget Cube computer]], reliant on semantic info extraction from the Web, screen-reader/audio-interfaces research, and pleasant tactile feedback.
 - Programmer, [[https://josephg.com/blog/3-tribes/][hacker-poet]], writer, programming language and compiler junkie.
   - Example projects:
-    - [[https://github.com/aartaka/bfosix][BFOSIX]], an operating system standard for Brainfuck and [[https://github.com/aartaka/bfed][BFED]] as an editor for it;
+    - [[https://github.com/bf-enterprise-solutions][Brainfuck Enterprise Solutions]] with the groundbreaking products like OS.bf and ed.bf.
     - [[https://github.com/aartaka/sade][Sade]], the infinitely optimizable Brainfuck-to-Lisp compiler.
   - Dream projects:
     - an infinitely extensible PDP-8 assembly-like language with Lisp-inspired code-optimizing macros.
@@ -24,6 +24,8 @@ Hey there! Name's Artyom, and I'm
   - Dream projects:
     - decentralized/federated (ActivityPub-based?) chat with every message only available to a certain group of people and thus deprecating the concept of chats in favor of direct cocktail-party style communication;
     - fully anonymous plain text chat with no way to trace one's identity (at all).
-- Striving for simplicity, wanting power.
-  - Example projects:
-    - [[https://github.com/aartaka/tripod][Tripod]], blog engine serving the content via HTTP, ActivityPub, Gopher, and Gemini, with the common denominator markup language to work with all of those.
+- Simple and semantic web design enjoyer.
+  - Trying to build UIs and websites (like [[https://aartaka.me][a personal one]]) with as little JavaScript as possible.
+    - Preferably none.
+      - Yes, it's possible.
+  - [[https://aartaka.me/blog/write-hypertext-not-plaintext][Hypertext over any other text format]].
