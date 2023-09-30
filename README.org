@@ -13,7 +13,7 @@ Hey there! Name's Artyom, and I'm
   - Example projects:
     - [[https://github.com/bf-enterprise-solutions][Brainfuck Enterprise Solutions]] with the groundbreaking products like OS.bf and ed.bf.
     - [[https://github.com/aartaka/sade][Sade]], the infinitely optimizable Brainfuck-to-Lisp compiler.
-  - Dream projects:
+  - Dream projects (i.e. projects I'd love to do but need more knowledge/courage/money to start):
     - an infinitely extensible PDP-8 assembly-like language with Lisp-inspired code-optimizing macros.
 - Interface-addicted:
   - mostly muscle memory of Emacs/Nyxt,
@@ -22,7 +22,7 @@ Hey there! Name's Artyom, and I'm
     - [[https://github.com/atlas-engineer/nyxt][Nyxt]] as a test bed for all kinds of Design Systems, Malleable Software, and Power-User Design experiments;
     - [[https://github.com/aartaka/graven-image][Graven Image]] as an attempt to make running Lisp image more inspectable.
     - [[https://github.com/aartaka/cl-pure-data][cl-pure-data]] as an attempt to bring/bridge the graphicality of PureData back to the textual coding.
-  - Dream projects (i.e. projects I'd love to do but need more knowledge/courage/money (investments/donations welcome) to start):
+  - Dream projects:
     - structural code editor for touchscreens, resembling [[https://apkpure.com/hacked/com.hackedapp][/Hacked/ (the Android game)]],
     - no-screen physical interface [[https://en.wikipedia.org/wiki/Fidget_Cube][Fidget Cube computer]], reliant on semantic info extraction from the Web, screen-reader/audio-interfaces research, and pleasant tactile feedback.
 - ~(Privacy-|Eco-|FOSS-|Anti-kleptocracy-)~ activist. Ethnically Russian. Struggling with the collective guilt for the war Putin started on 2022 Feb 24th. Envying the post-Soviet countries that have gotten to their political sustainability, hoping for the success of the remaining countries escaping the Communist/Imperialist/Colonial past (Россия Будет Свободной! Слава Україні! Жыве Беларусь!).
