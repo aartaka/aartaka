@@ -4,6 +4,11 @@ Hey there! Name's Artyom, and I'm
 - Nested
   - lists
     - lover.
+- Certified yak shaver:
+  - [[https://github.com/aartaka/lisp-config][Lisp config]].
+  - [[https://github.com/aartaka/stumpwm-config][StumpWM config]].
+  - [[https://github.com/aartaka/emacs-config][Emacs config]].
+  - [[https://github.com/aartaka/nyxt-config][Nyxt config]].
 - Simple and semantic web design enjoyer.
   - Trying to build UIs and websites (like [[https://aartaka.me][a personal one]]) with as little JavaScript as possible.
     - Preferably none.
