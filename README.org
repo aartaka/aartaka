@@ -6,6 +6,7 @@ Hey there! Name's Artyom, and I'm
     - lover.
 - Certified yak shaver:
   - [[https://github.com/aartaka/lisp-config][Lisp config]].
+  - [[https://github.com/aartaka/guix-config][Guix config]].
   - [[https://github.com/aartaka/stumpwm-config][StumpWM config]].
   - [[https://github.com/aartaka/emacs-config][Emacs config]].
   - [[https://github.com/aartaka/nyxt-config][Nyxt config]].
