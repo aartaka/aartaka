@@ -17,7 +17,7 @@ Hey there! Name's Artyom, and I'm
   - [[https://aartaka.me/blog/write-hypertext-not-plaintext][Hypertext over any other format]].
 - Programmer, [[https://josephg.com/blog/3-tribes/][hacker-poet]], writer, programming language and compiler junkie.
   - Example projects:
-    - [[https://github.com/bf-enterprise-solutions][Brainfuck Enterprise Solutions]] with the groundbreaking products like OS.bf and ed.bf.
+    - [[https://github.com/bf-enterprise-solutions][Brainfuck Enterprise Solutions]] with the groundbreaking products like [[https://github.com/bf-enterprise-solutions/os.bf][OS.bf]] and [[https://github.com/bf-enterprise-solutions/ed.bf][ed.bf]].
     - [[https://github.com/aartaka/sade][Sade]], the infinitely optimizable Brainfuck-to-Lisp compiler.
   - Dream projects (i.e. projects I'd love to do but need more knowledge/courage/money to start):
     - an infinitely extensible PDP-8 assembly-like language with Lisp-inspired code-optimizing macros.
