@@ -1,6 +1,6 @@
 #+TITLE:Artyom Bologov, an interface junkie
 
-Hey there! Name's Artyom, and I'm
+Hey there! Name's Artyom, and I'm a
 - Nested
   - lists
     - lover.
@@ -10,6 +10,8 @@ Hey there! Name's Artyom, and I'm
   - [[https://github.com/aartaka/stumpwm-config][StumpWM config]].
   - [[https://github.com/aartaka/emacs-config][Emacs config]].
   - [[https://github.com/aartaka/nyxt-config][Nyxt config]].
+  - [[https://github.com/aartaka/surf][surf fork]].
+  - [[https://github.com/artaka/st][ST fork]].
 - Simple and semantic web design enjoyer.
   - Trying to build UIs and websites (like [[https://aartaka.me][a personal one]]) with as little JavaScript as possible.
     - Preferably none.
@@ -22,8 +24,8 @@ Hey there! Name's Artyom, and I'm
   - Dream projects (i.e. projects I'd love to do but need more knowledge/courage/money to start):
     - an infinitely extensible PDP-8 assembly-like language with Lisp-inspired code-optimizing macros.
 - Interface-addicted:
-  - mostly muscle memory of Emacs/Nyxt,
-  - but also Magit/PureData knowledge domain representation enjoyment.
+  - mostly muscle memory of Emacs,
+  - but also Magit/PureData knowledge domain representation appreciation.
   - Example projects:
     - [[https://github.com/atlas-engineer/nyxt][Nyxt]] as a test bed for all kinds of Design Systems, Malleable Software, and Power-User Design experiments;
     - [[https://github.com/aartaka/graven-image][Graven Image]] as an attempt to make running Lisp image more inspectable.
