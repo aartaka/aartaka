@@ -33,7 +33,7 @@ Hey there! Name's Artyom, and I'm a
   - Dream projects:
     - structural code editor for touchscreens, resembling [[https://apkpure.com/hacked/com.hackedapp][/Hacked/ (the Android game)]],
     - no-screen physical interface [[https://en.wikipedia.org/wiki/Fidget_Cube][Fidget Cube computer]], reliant on semantic info extraction from the Web, screen-reader/audio-interfaces research, and pleasant tactile feedback.
-- ~(Privacy-|Eco-|FOSS-|Anti-kleptocracy-)~ activist. Ethnically Russian. Struggling with the collective guilt for the war Putin started on 2022 Feb 24th. Envying the post-Soviet countries that have gotten to their political sustainability, hoping for the success of the remaining countries escaping the Communist/Imperialist/Colonial past (Россия Будет Свободной! Слава Україні! Жыве Беларусь!).
+- ~(Privacy-|Eco-|FOSS-)~ activist. Ethnically Russian. Struggling with the collective guilt for the war Putin started on 2022 Feb 24th. Envying the post-Soviet countries that have gotten to their political sustainability, hoping for the success of the remaining countries escaping the Communist/Imperialist/Colonial past (Россия Будет Свободной! Слава Україні! Жыве Беларусь!).
   - Dream projects:
     - decentralized/federated (ActivityPub-based?) chat with every message only available to a certain group of people and thus deprecating the concept of chats in favor of direct cocktail-party style communication;
     - fully anonymous plain text chat with no way to trace one's identity (at all).
